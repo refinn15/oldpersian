@@ -1,8 +1,8 @@
-1=a-da-ma : da-a-ra-ya-va-u-sha : xa-sha-a-ya-tha-i-ya : va-za-
-2=ra-ka : xa-sha-a-ya-tha-i-ya : xa-sha-a-ya-tha-i-ya-a-na-a-
-3=xa-sha-a-ya-tha-i-ya : da-ha-ya-u-na-a-ma : ta-ya-i-
-4=sha-a-ma : pa-ru-u-na-a-ma : vi-i-
-5=
+1=a-da-ma:da-a-ra-ya-va-u-sha:xa-sha-a-ya-tha-i-ya:va-za-
+2=ra-ka:xa-sha-a-ya-tha-i-ya:xa-sha-a-ya-tha-i-ya-a-na-a-
+3=xa-sha-a-ya-tha-i-ya:da-ha-ya-u-na-a-ma:ta-ya-i-
+4=sha-a-ma:pa-ru-u-na-a-ma:vi-i-sha-ta-a-sa-pa-ha-ya-a:
+5=pa-u-sra:ha-xa-a-ma-na-i-sha-i-ya:tha-a-ta-i-ya:da-a-ra-
 6=
 7=
 8=
