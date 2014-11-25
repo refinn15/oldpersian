@@ -7,4 +7,4 @@ urn:cts:oldpersian:D.B.hc:4.6=a : a-ku-u-na-va-ma : va-sha-na-[a : a-u-ra]-ma-za
 urn:cts:oldpersian:D.B.hc:4.7=ja-na-ma:u-ta-a:9:xa-sha-[a-ya-tha-i-ya-]a:a-ga-ra-ba-a-ya-ma:1<:>ga-u-ma-a-ta:
 urn:cts:oldpersian:D.B.hc:4.8=na-a-ma:ma-gu-u-sha:a-ha:ha-[u-va:a-du-]u-ru-u-ji-i-ya:a-va-tha-a:a-tha-ha:a-da-ma:
 urn:cts:oldpersian:D.B.hc:4.9=ba-ra-di-i-ya:a-mi-i-ya-[:ha-ya:ku-u]-ra-u-sha:pa-u-ça:ha-u-va:pa-a-ra-sa-ma:ha-
-urn:cts:oldpersian:D.B.hc:4.10=mi-i-ça-i-ya-ma:a-ku-u-na-u-[sha:1:a-ça-i]na:na-a-ma:u-va-ji-i-ya:ha-u-va:a-gu-u-
+urn:cts:oldpersian:D.B.hc:4.10=mi-i-ça-i-ya-ma:a-ku-u-na-u-[sha:1:a-ça-i]-na:na-a-ma:u-va-ji-i-ya:ha-u-va:a-gu-u-
